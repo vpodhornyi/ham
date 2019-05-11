@@ -1,3 +1,5 @@
+<a href="https://vpodhornyi.github.io/the_ham/">Link to page</a>
+
 ## Задание
 
 Сверстать макет [psd](./The_Ham_Step_project.psd). Подключить динамические элементы (см. ниже)
