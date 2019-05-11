@@ -1,0 +1,158 @@
+.header {
+  background: url("../img/sections_background/section-1.jpg") no-repeat fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.header-container {
+  justify-content: space-between;
+}
+
+.logo-nav-block {
+  padding: 40px 0;
+  background-color: rgba(84, 79, 56, 0.5);
+}
+
+.header-logo {
+  display: inline-block;
+  color: #fff;
+  font-size: 40px;
+  padding: 0 15px;
+  background-color: #18cfab;
+  position: relative;
+}
+
+.header-logo-block {
+  display: inline-block;
+  background-color: #18cfab;
+  width: 33px;
+  padding: 5px 0;
+  position: absolute;
+}
+
+.block-one {
+  top: -6px;
+  left: 1px;
+  transform: rotate(-18deg);
+}
+
+.block-two {
+  top: -6px;
+  right: 1px;
+  transform: rotate(18deg);
+}
+
+.block-three {
+  bottom: -6px;
+  left: 1px;
+  transform: rotate(18deg);
+}
+
+.block-four {
+  bottom: -6px;
+  right: 1px;
+  transform: rotate(-18deg);
+}
+
+.header-logo-name {
+  font-size: 32px;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: #aeaeae;
+  text-transform: uppercase;
+  font-size: 13px;
+  margin: 0 10px;
+  position: relative;
+}
+
+.nav-item:hover {
+  color: #18cfab;
+}
+
+.nav-item:hover:after {
+  content: '';
+  width: 100%;
+  border-bottom: 2px solid #18cfab;
+  position: absolute;
+  left: 0;
+  bottom: -55px;
+}
+
+.nav-active {
+  color: #18cfab;
+  position: relative;
+}
+
+.nav-active:after {
+  content: '';
+  width: 100%;
+  border-bottom: 2px solid #18cfab;
+  position: absolute;
+  left: 0;
+  bottom: -55px;
+}
+
+.slogans-block {
+  text-align: center;
+}
+
+.first-slogan {
+  color: #fff;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+.second-slogan {
+  color: #fff;
+  font-size: 79px;
+  text-transform: uppercase;
+  margin: 45px 0 40px 0;
+}
+
+.third-slogan {
+  color: #aeaeae;
+  font-size: 34px;
+}
+
+.header-cell {
+  height: calc(100vh - 120px);
+  justify-content: center;
+}
+
+.buttons-block {
+  justify-content: center;
+  margin-top: 140px;
+}
+
+.button-now {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #fff;
+  padding: 25px 0 25px 0;
+  width: 166px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  position: absolute;
+  left: 0;
+  top: 3px;
+}
+
+.button-bg {
+  position: relative;
+  background-color: #fff;
+  border-radius: 5px;
+  width: 166px;
+  height: 66px;
+  margin: 0 20px;
+}
+
+.img-find {
+  margin: 0 10px;
+  cursor: pointer;
+}

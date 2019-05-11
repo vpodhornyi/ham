@@ -1,0 +1,27 @@
+.text-accent-color {
+  color: #18cfab;
+}
+
+.white {
+  color: #fff;
+}
+
+.explore-color {
+  background-color: #18cfab;
+}
+
+.purchase-color {
+  background-color: #00cbf6;
+}
+
+.option-color {
+  background-color: #1c2a33;
+}
+
+.display-none {
+  display: none;
+}
+
+.display-block {
+  display: block;
+}

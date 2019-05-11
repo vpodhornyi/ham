@@ -1,0 +1,41 @@
+.option-item {
+  width: 25%;
+}
+
+.up-line {
+  height: 8px;
+}
+
+.options-img-block {
+  border-top: 8px solid #fff;
+  justify-content: center;
+  background-color: #aeaeae;
+  height: 235px;
+}
+
+.options-img-one {
+  background: url("../img/options/option1.png") no-repeat center;
+}
+
+.options-img-two {
+  background: url("../img/options/option2.png") no-repeat center;
+}
+
+.options-img-three {
+  background: url("../img/options/option3.png") no-repeat center;
+}
+
+.options-img-four {
+  background: url("../img/options/option4.png") no-repeat center;
+}
+
+.border-explore-color {
+  border-color: #18cfab;
+}
+
+.option-name {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  padding-bottom: 118px;
+}
