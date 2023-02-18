@@ -1,4 +1,4 @@
-<a href="https://vpodhornyi.github.io/the_ham/">Link to page</a>
+<a href="https://vpodhornyi.github.io/ham/">Link to page</a>
 
 ## Задание
 
