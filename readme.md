@@ -19,7 +19,7 @@
 - Vanilla JavaScript
 
 ## 📁 Folder Structure
-
+```plaintext
 ham/
 ├── css/ # CSS stylesheets
 ├── fonts/ # Montserrat font files
