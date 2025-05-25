@@ -2,7 +2,7 @@
 
 **HAM** is a simple static HTML layout project created as a practice task based on a provided PSD design. It demonstrates clean HTML/CSS structure and basic JavaScript interactivity.
 
-🖥 **Live Demo**: [Go](https://vpodhornyi.github.io/ham/)
+🖥 **Live Demo**: [Link to page](https://vpodhornyi.github.io/ham/)
 
 ## 📌 Project Description
 
